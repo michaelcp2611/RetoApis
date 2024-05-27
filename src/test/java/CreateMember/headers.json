@@ -1,0 +1,8 @@
+
+{
+  "Content-Type": "application/json",
+  "Username": "admin",
+  "Password": "admin",
+  "Authorization": "Basic YWRtaW46YWRtaW4=",
+  "Host": "localhost:5002"
+}
