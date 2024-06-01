@@ -4,7 +4,7 @@ public class karateRunner {
 
     @Karate.Test
     Karate testSample() {
-        return Karate.run("classpath:CreateMember/CreateMember.feature").tags("~@ignore");
+        return Karate.run("classpath:GetMember/GetMember.feature").tags("@ValidarObtenerMiembro");
     }
 }
 
